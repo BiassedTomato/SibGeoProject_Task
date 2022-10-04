@@ -1,1 +1,4 @@
-# SibGeoProject_Task
+To launch the client server:
+```
+npm start
+```
